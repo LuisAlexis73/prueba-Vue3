@@ -4,8 +4,8 @@ This template should help get you started developing with Vue 3 in Vite.
 
 https://appvue3-listarpelis.netlify.app/
 
-###En esta spa
-App sencilla que lista una serie de peliculas traidas desde una api externa a travéz de axios.
+###Esta es una Web-App sencilla que lista una serie de peliculas traidas desde una api externa a travéz de axios.
+La unica funcionalidad que posee es esa, ya que el objetivo de este repositorio es simplemente poner en práctica el crear una spa con Vue.js y hacer una peticion simple a traves de axios.
 
 ## Recommended IDE Setup
 
